@@ -1,5 +1,5 @@
 # NEURAL MACHINE TRANSLATION
-This repo is an pytorch implementation of Stanford CS224N Neural Machine Transalation Assignment (Spanish to English)
+This repo is a pytorch implementation of Stanford CS224N Neural Machine Transalation Assignment (Spanish to English)
 
 ## Model Architecture
 ![image info](./model.png)
